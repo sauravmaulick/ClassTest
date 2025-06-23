@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Virtual Environment
+myenv
+
+# Streamlit cache and logs
+.streamlit/
+logs/
+
+# Environment files
+.env
+.env.*
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Responses file (optional: if you don’t want to track student data in Git)
+responses.json

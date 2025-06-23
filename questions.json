@@ -1,0 +1,25 @@
+{
+  "Chapter 1": [
+    {
+      "type": "fill",
+      "question": "The capital of France is _____.",
+      "answer": "Paris"
+    },
+    {
+      "type": "true_false",
+      "question": "The sun rises in the west.",
+      "answer": "False"
+    },
+    {
+      "type": "mcq",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "type": "qa",
+      "question": "Define gravity.",
+      "answer": ""
+    }
+  ]
+}
