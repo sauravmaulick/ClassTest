@@ -1,10 +1,14 @@
 # ClassTest
 This Website if for taking ClassTest to My Student
 
+✅ Folder Structure
+
 class_test_app/
 ├── questions.json
 ├── responses.json     # will be auto-created
 └── app.py             # main Streamlit app
+
+📝 STEPS:
 
 Steps 1: Create Virtual Env
     python -m venv myvenv
