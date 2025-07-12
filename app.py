@@ -73,6 +73,7 @@ if student_name and chapter:
                     f"Write your answer (Q{idx + 1})", 
                     key=f"qa_{idx}"
             )
+            
 
         responses.append({
             "question": q["question"],
