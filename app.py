@@ -30,7 +30,7 @@ def save_response(student_name, chapter, responses):
         json.dump(data, f, indent=4)
 
 # App title
-st.title("📚 Class Test App 1")
+st.title("📚 Class Test App")
 
 # Student info
 student_name = st.text_input("Enter your name")
@@ -69,7 +69,10 @@ if student_name and chapter:
                     key=f"qa_{idx}"
                 )
         else:
-            ans = ""
+            ans = st.text_area(
+                    f"Write your answer (Q{idx + 1})", 
+                    key=f"qa_{idx}"
+            )
 
         responses.append({
             "question": q["question"],
