@@ -1,0 +1,135 @@
+﻿,Question,Type,Correct Answer,Given Answer,Status
+0,Which of the following is an example of a New Age Robotic System used in healthcare?,mcq,Surgical Robot,Surgical Robot,Correct
+1,What is a key feature of Smart Homes?,mcq,Integration of IoT devices for automation,Integration of IoT devices for automation,Correct
+2,Which technology is primarily used in Autonomous Cars for navigation?,mcq,GPS,GPS,Correct
+3,What is the primary function of Warehouse Robots?,mcq,Inventory management,Inventory management,Correct
+4,Which of the following is NOT a characteristic of New Age Robotic Systems?,mcq,Manual operation,Manual operation,Correct
+5,Autonomous Drones can operate without human intervention.,true_false,True,True,Correct
+6,Smart Schools rely entirely on manual teaching methods.,true_false,False,False,Correct
+7,Elevators are considered robotic systems because they use sensors and automation.,true_false,True,True,Correct
+8,New Age Robotic Systems are irrelevant in modern healthcare.,true_false,False,False,Correct
+9,Smart Mobility includes systems like driver-assisted cars.,true_false,True,True,Correct
+10,The robotic system used to automate inventory in large storage facilities is called a _____.,fill,Warehouse Robot,Warehouse Robots,Incorrect
+11,_____ Cars use sensors and AI to navigate without human input.,fill,Autonomous,Autonomous/Driver less,Incorrect
+12,A _____ Robot assists surgeons during complex medical procedures.,fill,Surgical,Surgical,Correct
+13,Smart _____ integrate IoT devices to automate household tasks.,fill,Homes,Houses,Incorrect
+14,The relevance of NARS is driven by advancements in _____ and connectivity.,fill,AI,technology,Incorrect
+15,What distinguishes a robot from a machine?,mcq,A robot can sense and adapt,A robot can sense and adapt,Correct
+16,What is a key feature of a Cobot?,mcq,Designed for human-robot collaboration,Designed for human-robot collaboration,Correct
+17,Which of the following is an example of a Cobot application?,mcq,Human-assisted robotic arm in assembly,Human-assisted robotic arm in assembly,Correct
+18,Why are Cobots considered an advancement over traditional robots?,mcq,They allow human interaction,They allow human interaction,Correct
+19,What is a primary benefit of using Cobots in industries?,mcq,Enhanced safety and collaboration,Enhanced safety and collaboration,Correct
+20,"A machine can perform tasks without continuous sensing, unlike a robot.",true_false,True,False,Incorrect
+21,Cobots are designed to work in isolation without human input.,true_false,False,False,Correct
+22,Robots must be programmed to perform specific tasks.,true_false,True,True,Correct
+23,Cobots represent a shift from fully autonomous systems to collaborative systems.,true_false,True,True,Correct
+24,A washing machine is an example of a robot.,true_false,False,True,Incorrect
+25,A _____ is a robotic system designed to work alongside humans.,fill,Cobot,Cobot,Correct
+26,"Unlike a machine, a robot continuously _____ its environment.",fill,Senses,interacts with,Incorrect
+27,Cobots emphasize _____ interaction in their design.,fill,Human,Human,Correct
+28,A robot differs from a machine due to its ability to _____ to changing conditions.,fill,Adapt,adapt,Incorrect
+29,The progress from robots to cobots highlights the importance of human-robot _____.,fill,Collaboration,collaboration,Incorrect
+30,What is a key difference between automated and autonomous systems?,mcq,Autonomous systems can make decisions,Autonomous systems can make decisions,Correct
+31,Which type of decision making is associated with machines?,mcq,Objective,Subjective,Incorrect
+32,What is the role of data in Machine Learning?,mcq,To train models for decision making,To train models for decision making,Correct
+33,Which of the following is an example of Machine Learning application?,mcq,Fruit sorting by AI,Fruit sorting by AI,Correct
+34,What is a critical step in Machine Learning?,mcq,Training the model with data,Training the model with data,Correct
+35,Autonomous systems operate based on probabilistic decision making.,true_false,True,True,Correct
+36,Human decision making is purely objective.,true_false,False,False,Correct
+37,Machine Learning requires programming and algorithms.,true_false,True,True,Correct
+38,Automated systems can adapt to new situations like autonomous systems.,true_false,False,False,Correct
+39,Object classification by machines is based on predefined features.,true_false,True,True,Correct
+40,_____ systems follow fixed rules without decision-making capabilities.,fill,Automated,Automated,Correct
+41,Machine Learning uses _____ to train models for decision making.,fill,Data,data,Incorrect
+42,"Human decision making is often _____, while machine decision making is objective.",fill,Subjective,subjective,Incorrect
+43,_____ is a process where machines learn from data to make decisions.,fill,Machine Learning,Data learning,Incorrect
+44,Fruit sorting by AI is an example of a _____ Learning application.,fill,Machine,Machine,Correct
+45,"What is the output of the following code?
+```python
+x = 5
+if x > 3:
+    print('Greater')
+else:
+    print('Smaller')
+```",fill,Greater,Greater,Correct
+46,"What is the output of the following code?
+```python
+for i in range(3):
+    print(i, end=' ')
+```",fill,0 1 2,'1 2 3',Incorrect
+47,"What is the output of the following code?
+```python
+x = [1, 2, 3]
+print(x[1])
+```",fill,2,2,Correct
+48,"What is the output of the following code?
+```python
+x = 'Robot'
+print(x[1:3])
+```",fill,ob,ob,Correct
+49,"What is the output of the following code?
+```python
+x = 10
+while x > 7:
+    x -= 2
+print(x)
+```",fill,6,8 6 ,Incorrect
+50,"What is the output of the following code?
+```python
+def check(x):
+    return x % 2 == 0
+print(check(4))
+```",fill,True,True,Correct
+51,"What is the output of the following code?
+```python
+x = [1, 2, 3, 4]
+print(len(x))
+```",fill,4,4,Correct
+52,"What is the output of the following code?
+```python
+x = 'AI'
+print(x * 2)
+```",fill,AIAI,Error,Incorrect
+53,"What is the output of the following code?
+```python
+x = 3
+y = 4
+print(x + y)
+```",fill,7,7,Correct
+54,"What is the output of the following code?
+```python
+if 5 > 2 and 3 < 4:
+    print('Correct')
+else:
+    print('Wrong')
+```",fill,Correct,Correct,Correct
+55,"Write a Python program to check if a number is positive, negative, or zero.",python_programming,"```python
+num = float(input('Enter a number: '))
+if num > 0:
+    print('Positive')
+elif num < 0:
+    print('Negative')
+else:
+    print('Zero')
+```",OK,Incorrect
+56,Write a Python program to print all even numbers from 1 to 10.,python_programming,"```python
+for i in range(1, 11):
+    if i % 2 == 0:
+        print(i, end=' ')
+```",OK,Incorrect
+57,Write a Python program to find the length of a string entered by the user.,python_programming,"```python
+text = input('Enter a string: ')
+print('Length:', len(text))
+```",OK,Incorrect
+58,Write a Python program to check if a given number is divisible by 5.,python_programming,"```python
+num = int(input('Enter a number: '))
+if num % 5 == 0:
+    print('Divisible by 5')
+else:
+    print('Not divisible by 5')
+```",OK,Incorrect
+59,Write a Python program to reverse a string entered by the user.,python_programming,"```python
+text = input('Enter a string: ')
+reverse = text[::-1]
+print('Reversed string:', reverse)
+```",OK,Incorrect

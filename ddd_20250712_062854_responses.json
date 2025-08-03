@@ -1,0 +1,307 @@
+{
+    "student_name": "ddd",
+    "timestamp": "2025-07-12 06:28:54",
+    "chapter": "Chapter 1, 2, 12",
+    "responses": [
+        {
+            "question": "Which of the following is an example of a New Age Robotic System used in healthcare?",
+            "type": "mcq",
+            "answer_given": "Warehouse Robot"
+        },
+        {
+            "question": "What is a key feature of Smart Homes?",
+            "type": "mcq",
+            "answer_given": "Integration of IoT devices for automation"
+        },
+        {
+            "question": "Which technology is primarily used in Autonomous Cars for navigation?",
+            "type": "mcq",
+            "answer_given": "Radio Waves"
+        },
+        {
+            "question": "What is the primary function of Warehouse Robots?",
+            "type": "mcq",
+            "answer_given": "Inventory management"
+        },
+        {
+            "question": "Which of the following is NOT a characteristic of New Age Robotic Systems?",
+            "type": "mcq",
+            "answer_given": "Connectivity"
+        },
+        {
+            "question": "Autonomous Drones can operate without human intervention.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Smart Schools rely entirely on manual teaching methods.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Elevators are considered robotic systems because they use sensors and automation.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "New Age Robotic Systems are irrelevant in modern healthcare.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Smart Mobility includes systems like driver-assisted cars.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "The robotic system used to automate inventory in large storage facilities is called a _____.",
+            "type": "fill",
+            "answer_given": "hhH"
+        },
+        {
+            "question": "_____ Cars use sensors and AI to navigate without human input.",
+            "type": "fill",
+            "answer_given": "hhh"
+        },
+        {
+            "question": "A _____ Robot assists surgeons during complex medical procedures.",
+            "type": "fill",
+            "answer_given": "hhh"
+        },
+        {
+            "question": "Smart _____ integrate IoT devices to automate household tasks.",
+            "type": "fill",
+            "answer_given": "hh"
+        },
+        {
+            "question": "The relevance of NARS is driven by advancements in _____ and connectivity.",
+            "type": "fill",
+            "answer_given": "h"
+        },
+        {
+            "question": "What distinguishes a robot from a machine?",
+            "type": "mcq",
+            "answer_given": "A robot is stationary"
+        },
+        {
+            "question": "What is a key feature of a Cobot?",
+            "type": "mcq",
+            "answer_given": "Designed for human-robot collaboration"
+        },
+        {
+            "question": "Which of the following is an example of a Cobot application?",
+            "type": "mcq",
+            "answer_given": "Human-assisted robotic arm in assembly"
+        },
+        {
+            "question": "Why are Cobots considered an advancement over traditional robots?",
+            "type": "mcq",
+            "answer_given": "They work without sensors"
+        },
+        {
+            "question": "What is a primary benefit of using Cobots in industries?",
+            "type": "mcq",
+            "answer_given": "Enhanced safety and collaboration"
+        },
+        {
+            "question": "A machine can perform tasks without continuous sensing, unlike a robot.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Cobots are designed to work in isolation without human input.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Robots must be programmed to perform specific tasks.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Cobots represent a shift from fully autonomous systems to collaborative systems.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "A washing machine is an example of a robot.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "A _____ is a robotic system designed to work alongside humans.",
+            "type": "fill",
+            "answer_given": "cccc"
+        },
+        {
+            "question": "Unlike a machine, a robot continuously _____ its environment.",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "Cobots emphasize _____ interaction in their design.",
+            "type": "fill",
+            "answer_given": "cc"
+        },
+        {
+            "question": "A robot differs from a machine due to its ability to _____ to changing conditions.",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "The progress from robots to cobots highlights the importance of human-robot _____.",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "What is a key difference between automated and autonomous systems?",
+            "type": "mcq",
+            "answer_given": "Automated systems require no human input"
+        },
+        {
+            "question": "Which type of decision making is associated with machines?",
+            "type": "mcq",
+            "answer_given": "Objective"
+        },
+        {
+            "question": "What is the role of data in Machine Learning?",
+            "type": "mcq",
+            "answer_given": "To train models for decision making"
+        },
+        {
+            "question": "Which of the following is an example of Machine Learning application?",
+            "type": "mcq",
+            "answer_given": "Elevator operation"
+        },
+        {
+            "question": "What is a critical step in Machine Learning?",
+            "type": "mcq",
+            "answer_given": "Training the model with data"
+        },
+        {
+            "question": "Autonomous systems operate based on probabilistic decision making.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Human decision making is purely objective.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Machine Learning requires programming and algorithms.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Automated systems can adapt to new situations like autonomous systems.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Object classification by machines is based on predefined features.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "_____ systems follow fixed rules without decision-making capabilities.",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "Machine Learning uses _____ to train models for decision making.",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "Human decision making is often _____, while machine decision making is objective.",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "_____ is a process where machines learn from data to make decisions.",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "Fruit sorting by AI is an example of a _____ Learning application.",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "What is the output of the following code?\n```python\nx = 5\nif x > 3:\n    print('Greater')\nelse:\n    print('Smaller')\n```",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "What is the output of the following code?\n```python\nfor i in range(3):\n    print(i, end=' ')\n```",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "What is the output of the following code?\n```python\nx = [1, 2, 3]\nprint(x[1])\n```",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "What is the output of the following code?\n```python\nx = 'Robot'\nprint(x[1:3])\n```",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "What is the output of the following code?\n```python\nx = 10\nwhile x > 7:\n    x -= 2\nprint(x)\n```",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "What is the output of the following code?\n```python\ndef check(x):\n    return x % 2 == 0\nprint(check(4))\n```",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "What is the output of the following code?\n```python\nx = [1, 2, 3, 4]\nprint(len(x))\n```",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "What is the output of the following code?\n```python\nx = 'AI'\nprint(x * 2)\n```",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "What is the output of the following code?\n```python\nx = 3\ny = 4\nprint(x + y)\n```",
+            "type": "fill",
+            "answer_given": "cc"
+        },
+        {
+            "question": "What is the output of the following code?\n```python\nif 5 > 2 and 3 < 4:\n    print('Correct')\nelse:\n    print('Wrong')\n```",
+            "type": "fill",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "Write a Python program to check if a number is positive, negative, or zero.",
+            "type": "python_programming",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "Write a Python program to print all even numbers from 1 to 10.",
+            "type": "python_programming",
+            "answer_given": "ccc"
+        },
+        {
+            "question": "Write a Python program to find the length of a string entered by the user.",
+            "type": "python_programming",
+            "answer_given": "cc"
+        },
+        {
+            "question": "Write a Python program to check if a given number is divisible by 5.",
+            "type": "python_programming",
+            "answer_given": "cc"
+        },
+        {
+            "question": "Write a Python program to reverse a string entered by the user.",
+            "type": "python_programming",
+            "answer_given": "ccc"
+        }
+    ]
+}
