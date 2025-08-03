@@ -30,7 +30,7 @@ def save_response(student_name, chapter, responses):
         json.dump(data, f, indent=4)
 
 # App title
-st.title("📚 Class Test App")
+st.title("📚 Class Test - Yash")
 
 # Student info
 student_name = st.text_input("Enter your name")
