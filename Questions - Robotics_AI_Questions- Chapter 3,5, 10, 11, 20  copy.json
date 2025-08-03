@@ -1,0 +1,245 @@
+{
+  "Chapter 3,5,10,11,20": [
+    {
+      "type": "fill",
+      "question": "Gears are used in robots to transmit and ________ force..",
+      "answer": "amplify",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "The gear ratio is calculated as the number of teeth on the driven gear divided by the number of teeth on the ________ gear.",
+      "answer": "driving",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Gears can only increase the speed of a robot’s motion.",
+      "answer": "False",
+      "explanation": "Gears can increase or decrease speed and torque depending on the gear ratio.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "The gear ratio determines how many times the driven gear rotates for one rotation of the driving gear.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the primary function of gears in robots?",
+      "options": ["Amplify sound", "Transmit and amplify force", "Control electrical signals", "Store energy"],
+      "answer": "Transmit and amplify force",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which gear type is best for high-torque, low-speed applications?",
+      "options": ["Spur gear", "Helical gear", "Worm gear", "Bevel gear"],
+      "answer": "Worm gear",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Actuators convert ________ energy into mechanical motion.",
+      "answer": "electrical",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A ________ actuator produces motion in a straight line.",
+      "answer": "linear",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Actuators are only used to produce linear motion.",
+      "answer": "False",
+      "explanation": "Actuators produce both linear and rotary motion.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Servo motors are commonly used in robotic joints for precise control.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the primary function of an actuator in a robot?",
+      "options": ["Process data", "Convert energy into motion", "Store energy", "Sense the environment"],
+      "answer": "Convert energy into motion",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which actuator is best suited for precise angular control?",
+      "options": ["Hydraulic actuator", "Servo motor", "Pneumatic actuator", "Linear actuator"],
+      "answer": "Servo motor",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Automated systems follow ________ instructions without deviation.",
+      "answer": "pre-programmed",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Autonomous systems use ________ decision-making to adapt to changes.",
+      "answer": "probabilistic",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Automated systems can adapt to unexpected changes.",
+      "answer": "False",
+      "explanation": "Automated systems follow fixed rules and cannot adapt to changes.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Autonomous systems use probabilistic decision-making.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a key feature of automated systems?",
+      "options": ["Probabilistic decision-making", "Deterministic behavior", "Learning from experience", "Subjective judgment"],
+      "answer": "Deterministic behavior",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Autonomous systems are best suited for:",
+      "options": ["Fixed tasks", "Dynamic environments", "Manual control", "Data storage"],
+      "answer": "Dynamic environments",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A ________ is a mutable, ordered collection of elements in Python.",
+      "answer": "list",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A tuple is ________, meaning its elements cannot be changed after creation.",
+      "answer": "immutable",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Lists in Python are immutable.",
+      "answer": "False",
+      "explanation": "Lists are mutable; their elements can be changed.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Tuples can be modified after creation.",
+      "answer": "False",
+      "explanation": "Tuples are immutable; their elements cannot be changed.",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following creates a list in Python?",
+      "options": ["my_list = (1, 2, 3)", "my_list = [1, 2, 3]", "my_list = {1, 2, 3}", "my_list = <1, 2, 3>"],
+      "answer": "my_list = [1, 2, 3]",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do you access the second element of a tuple named my_tuple?",
+      "options": ["my_tuple[2]", "my_tuple[1]", "my_tuple(1)", "my_tuple{1}"],
+      "answer": "my_tuple[1]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2, 3]\nmy_list.append(4)\nprint(my_list)",
+      "answer": "[1, 2, 3, 4]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_tuple = (10, 20, 30)\nprint(my_tuple[1])",
+      "answer": "20",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [5, 2, 8]\nmy_list.sort()\nprint(my_list)",
+      "answer": "[2, 5, 8]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2]\nmy_list.extend([3, 4])\nprint(my_list)",
+      "answer": "[1, 2, 3, 4]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_tuple = (1, 2, 3)\nmy_list = list(my_tuple)\nprint(my_list)",
+      "answer": "[1, 2, 3]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [10, 20, 30]\nmy_list.insert(1, 15)\nprint(my_list)",
+      "answer": "[10, 15, 20, 30]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_tuple = (5, 10, 15)\nprint(len(my_tuple))",
+      "answer": "3",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2, 3, 4]\ndel my_list[2]\nprint(my_list)",
+      "answer": "[1, 2, 4]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2, 3]\nmy_tuple = tuple(my_list)\nprint(my_tuple)",
+      "answer": "(1, 2, 3)",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [3, 1, 4, 1]\nprint(my_list.index(1))",
+      "answer": "1",
+      "marks": 1
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a list of 5 gear types used in robots, append a new gear type, and sort the list in alphabetical order.",
+      "answer": "gear_types = [\"Spur\", \"Helical\", \"Bevel\", \"Worm\", \"Planetary\"]\ngear_types.append(\"Rack\")\ngear_types.sort()\nprint(\"Sorted gear types:\", gear_types)",
+      "marks": 2.5
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a tuple of 4 actuator types used in robots, convert it to a list, and insert a new actuator type at index 2.",
+      "answer": "actuator_types = (\"Servo\", \"DC Motor\", \"Pneumatic\", \"Hydraulic\")\nactuator_list = list(actuator_types)\nactuator_list.insert(2, \"Stepper\")\nprint(\"Updated actuator list:\", actuator_list)",
+      "marks": 2.5
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a list of 5 robotic systems, classify each as \"Automated\" or \"Autonomous\", and print the classification.",
+      "answer": "systems = [\"Conveyor Belt\", \"Self-Driving Car\", \"Washing Machine\", \"Robotic Vacuum\", \"Assembly Line\"]\nclassification = [\"Automated\", \"Autonomous\", \"Automated\", \"Autonomous\", \"Automated\"]\nfor i in range(len(systems)):\n    print(f\"{systems[i]} is {classification[i]}\")",
+      "marks": 2.5
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a tuple of 3 gear ratios, convert it to a list, add a new gear ratio, and convert it back to a tuple.",
+      "answer": "gear_ratios = (2, 3, 5)\nratio_list = list(gear_ratios)\nratio_list.append(4)\ngear_ratios = tuple(ratio_list)\nprint(\"Updated gear ratios:\", gear_ratios)",
+      "marks": 2.5
+    }
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "Chapter 3,5,10,11,20": [
+    {
+      "type": "fill",
+      "question": "Gears are used in robots to transmit and ________ force.",
+      "answer": "amplify",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "The gear ratio is calculated as the number of teeth on the driven gear divided by the number of teeth on the ________ gear.",
+      "answer": "driving",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A ________ gear has teeth cut straight across its circumference.",
+      "answer": "spur",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Bevel gears are used to transmit motion between ________ shafts.",
+      "answer": "intersecting",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "The principle of gears involves the transfer of ________ motion from one shaft to another.",
+      "answer": "rotational",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Worm gears provide high ________ reduction in a compact space.",
+      "answer": "torque",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A gear train with multiple gears is called a ________ gear train.",
+      "answer": "compound",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Spur gears are commonly used in robots for ________ transmission.",
+      "answer": "power",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "The gear with fewer teeth in a gear pair rotates ________ than the gear with more teeth.",
+      "answer": "faster",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Planetary gears are used in robotic arms to achieve high ________.",
+      "answer": "precision",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Gears can only increase the speed of a robot’s motion.",
+      "answer": "False",
+      "explanation": "Gears can increase or decrease speed and torque depending on the gear ratio.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "The gear ratio determines how many times the driven gear rotates for one rotation of the driving gear.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Helical gears are quieter than spur gears due to gradual tooth engagement.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Worm gears are primarily used for low-torque applications.",
+      "answer": "False",
+      "explanation": "Worm gears are used for high-torque, low-speed applications.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "A gear ratio of 2:1 means the driven gear rotates twice as fast as the driving gear.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Bevel gears are used for parallel shaft arrangements.",
+      "answer": "False",
+      "explanation": "Bevel gears are used for intersecting shafts, not parallel ones.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Gears cannot change the direction of motion in robots.",
+      "answer": "False",
+      "explanation": "Gears like bevel and worm gears can change the direction of motion.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "A higher gear ratio always increases speed.",
+      "answer": "False",
+      "explanation": "A higher gear ratio typically increases torque but reduces speed.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Spur gears are the most complex type of gear.",
+      "answer": "False",
+      "explanation": "Spur gears are simple; gears like planetary gears are more complex.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Gear trains are used to achieve multiple gear ratios in a single system.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the primary function of gears in robots?",
+      "options": ["Amplify sound", "Transmit and amplify force", "Control electrical signals", "Store energy"],
+      "answer": "Transmit and amplify force",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which gear type is best for high-torque, low-speed applications?",
+      "options": ["Spur gear", "Helical gear", "Worm gear", "Bevel gear"],
+      "answer": "Worm gear",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A gear ratio of 3:1 indicates:",
+      "options": ["Driven gear rotates three times faster", "Driving gear rotates three times faster", "Both gears rotate at the same speed", "No rotation occurs"],
+      "answer": "Driven gear rotates three times faster",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which gear type is used for intersecting shafts?",
+      "options": ["Spur gear", "Bevel gear", "Helical gear", "Planetary gear"],
+      "answer": "Bevel gear",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What does a gear train do?",
+      "options": ["Reduces friction", "Combines multiple gears for complex motion", "Converts electrical energy to mechanical", "Stores power"],
+      "answer": "Combines multiple gears for complex motion",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Spur gears are primarily used for:",
+      "options": ["High-speed, low-torque applications", "Changing motion direction", "High-torque, low-speed applications", "Non-parallel shafts"],
+      "answer": "High-speed, low-torque applications",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The gear with more teeth in a pair rotates:",
+      "options": ["Faster", "Slower", "At the same speed", "In the opposite direction"],
+      "answer": "Slower",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Planetary gears are commonly used in:",
+      "options": ["Simple toys", "Robotic arms for precision", "Low-power devices", "High-speed fans"],
+      "answer": "Robotic arms for precision",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Helical gears are preferred over spur gears because they:",
+      "options": ["Are cheaper", "Are quieter", "Are simpler to manufacture", "Have no teeth"],
+      "answer": "Are quieter",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The gear ratio is defined as:",
+      "options": ["Speed of driving gear / Speed of driven gear", "Teeth of driven gear / Teeth of driving gear", "Torque of driven gear / Torque of driving gear", "Size of driving gear / Size of driven gear"],
+      "answer": "Teeth of driven gear / Teeth of driving gear",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Actuators convert ________ energy into mechanical motion.",
+      "answer": "electrical",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A ________ actuator produces motion in a straight line.",
+      "answer": "linear",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Rotary actuators are used to power ________ in robots.",
+      "answer": "wheels",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A servo motor is an example of a ________ actuator.",
+      "answer": "rotary",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Linear actuators are commonly used in robotic ________.",
+      "answer": "joints",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "The ________ actuator is used to control the position of a robot’s arm.",
+      "answer": "servo",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Pneumatic actuators use ________ to generate motion.",
+      "answer": "compressed air",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A DC motor is an example of a ________ actuator used in robot wheels.",
+      "answer": "rotary",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Hydraulic actuators are known for their high ________ output.",
+      "answer": "force",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Actuators are essential for enabling ________ in robotic systems.",
+      "answer": "movement",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Actuators are only used to produce linear motion.",
+      "answer": "False",
+      "explanation": "Actuators produce both linear and rotary motion.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Servo motors are commonly used in robotic joints for precise control.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Pneumatic actuators are powered by electricity.",
+      "answer": "False",
+      "explanation": "Pneumatic actuators use compressed air.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Linear actuators are used in robot wheels.",
+      "answer": "False",
+      "explanation": "Rotary actuators are used in wheels; linear actuators are used in joints.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Hydraulic actuators provide high force but are bulky.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "All actuators require external power to function.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "DC motors are examples of linear actuators.",
+      "answer": "False",
+      "explanation": "DC motors are rotary actuators.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Actuators are used only in industrial robots.",
+      "answer": "False",
+      "explanation": "Actuators are used in various robots, including hobbyist and service robots.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Stepper motors provide precise control for rotary motion.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Linear actuators cannot be used in robotic arms.",
+      "answer": "False",
+      "explanation": "Linear actuators are used in robotic arms for linear motion.",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the primary function of an actuator in a robot?",
+      "options": ["Process data", "Convert energy into motion", "Store energy", "Sense the environment"],
+      "answer": "Convert energy into motion",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which actuator is best suited for precise angular control?",
+      "options": ["Hydraulic actuator", "Servo motor", "Pneumatic actuator", "Linear actuator"],
+      "answer": "Servo motor",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Linear actuators are commonly used in:",
+      "options": ["Robot wheels", "Robot joints", "Robot sensors", "Robot processors"],
+      "answer": "Robot joints",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which type of actuator uses compressed air?",
+      "options": ["Electric actuator", "Hydraulic actuator", "Pneumatic actuator", "Thermal actuator"],
+      "answer": "Pneumatic actuator",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A DC motor is an example of a:",
+      "options": ["Linear actuator", "Rotary actuator", "Thermal actuator", "Magnetic actuator"],
+      "answer": "Rotary actuator",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Hydraulic actuators are known for:",
+      "options": ["Low force output", "High force output", "Small size", "Low power consumption"],
+      "answer": "High force output",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which actuator is used in robot wheels?",
+      "options": ["Servo motor", "Linear actuator", "Pneumatic actuator", "Hydraulic actuator"],
+      "answer": "Servo motor",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Stepper motors are used for:",
+      "options": ["High-speed continuous rotation", "Precise incremental rotation", "Linear motion only", "Low-torque applications"],
+      "answer": "Precise incremental rotation",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Linear actuators are best for:",
+      "options": ["Rotational motion", "Straight-line motion", "Sensing motion", "Data processing"],
+      "answer": "Straight-line motion",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Actuators are critical for:",
+      "options": ["Data storage", "Robot movement", "Signal processing", "Power generation"],
+      "answer": "Robot movement",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Automated systems follow ________ instructions without deviation.",
+      "answer": "pre-programmed",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Autonomous systems use ________ decision-making to adapt to changes.",
+      "answer": "probabilistic",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Human decision-making is considered ________, while machine decision-making is objective.",
+      "answer": "subjective",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Object classification by computers relies on ________ and algorithms.",
+      "answer": "data",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Automated systems are ________, meaning they follow fixed rules.",
+      "answer": "deterministic",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Autonomous systems can handle ________ environments.",
+      "answer": "dynamic",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A robotic vacuum cleaner that maps a room is an example of an ________ system.",
+      "answer": "autonomous",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Object classification by humans is based on ________ experience.",
+      "answer": "sensory",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Probabilistic decision-making is a feature of ________ systems.",
+      "answer": "autonomous",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A conveyor belt system is an example of an ________ system.",
+      "answer": "automated",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Automated systems can adapt to unexpected changes.",
+      "answer": "False",
+      "explanation": "Automated systems follow fixed rules and cannot adapt to changes.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Autonomous systems use probabilistic decision-making.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Human decision-making is always objective.",
+      "answer": "False",
+      "explanation": "Human decision-making is subjective, influenced by emotions and experience.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Object classification by machines is based on pattern recognition.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Automated systems are suitable for dynamic environments.",
+      "answer": "False",
+      "explanation": "Automated systems are best for predictable, static environments.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "A self-driving car is an example of an autonomous system.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Machines classify objects based on subjective judgment.",
+      "answer": "False",
+      "explanation": "Machines use objective, data-driven algorithms for classification.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Probabilistic decision-making involves uncertainty.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Automated systems require constant human intervention.",
+      "answer": "False",
+      "explanation": "Automated systems operate without human intervention for predefined tasks.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Autonomous systems can learn from their environment.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is a key feature of automated systems?",
+      "options": ["Probabilistic decision-making", "Deterministic behavior", "Learning from experience", "Subjective judgment"],
+      "answer": "Deterministic behavior",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Autonomous systems are best suited for:",
+      "options": ["Fixed tasks", "Dynamic environments", "Manual control", "Data storage"],
+      "answer": "Dynamic environments",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Human decision-making is:",
+      "options": ["Objective", "Deterministic", "Subjective", "Probabilistic"],
+      "answer": "Subjective",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Object classification by computers relies on:",
+      "options": ["Emotions", "Algorithms and data", "Subjective judgment", "Manual input"],
+      "answer": "Algorithms and data",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "An example of an automated system is:",
+      "options": ["A self-driving car", "A conveyor belt", "A robotic vacuum cleaner", "A drone with obstacle avoidance"],
+      "answer": "A conveyor belt",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Probabilistic decision-making is associated with:",
+      "options": ["Automated systems", "Autonomous systems", "Manual systems", "Mechanical systems"],
+      "answer": "Autonomous systems",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Machine-based object classification is:",
+      "options": ["Subjective", "Objective", "Emotional", "Random"],
+      "answer": "Objective",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "An example of an autonomous system is:",
+      "options": ["A washing machine", "A self-driving car", "A light switch", "A calculator"],
+      "answer": "A self-driving car",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Automated systems are designed for:",
+      "options": ["Unpredictable tasks", "Fixed, repetitive tasks", "Learning from data", "Creative tasks"],
+      "answer": "Fixed, repetitive tasks",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Human object classification is based on:",
+      "options": ["Algorithms", "Sensory experience", "Deterministic rules", "Random guessing"],
+      "answer": "Sensory experience",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A ________ is a mutable, ordered collection of elements in Python.",
+      "answer": "list",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A tuple is ________, meaning its elements cannot be changed after creation.",
+      "answer": "immutable",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "The ________ method adds an element to the end of a list.",
+      "answer": "append",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "To access the third element of a list, we use the index ________.",
+      "answer": "2",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "The ________ method inserts an element at a specific index in a list.",
+      "answer": "insert",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A tuple is created using ________ parentheses.",
+      "answer": "round",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "The ________ method combines two lists into one.",
+      "answer": "extend",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "To delete a tuple, we use the ________ statement.",
+      "answer": "del",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Converting a list to a tuple is done using the ________ function.",
+      "answer": "tuple",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "The ________ method arranges a list in ascending order.",
+      "answer": "sort",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Lists in Python are immutable.",
+      "answer": "False",
+      "explanation": "Lists are mutable; their elements can be changed.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Tuples can be modified after creation.",
+      "answer": "False",
+      "explanation": "Tuples are immutable; their elements cannot be changed.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "The append method adds an element at the beginning of a list.",
+      "answer": "False",
+      "explanation": "The append method adds an element to the end of a list.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "A list can be converted to a tuple using the tuple() function.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "The sort method reverses the order of a list.",
+      "answer": "False",
+      "explanation": "The sort method arranges a list in ascending order by default.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Tuples can be deleted using the del statement.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "The extend method adds a single element to a list.",
+      "answer": "False",
+      "explanation": "The extend method adds multiple elements from another list.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Lists and tuples can store elements of different data types.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "The insert method requires an index and an element as arguments.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "A tuple can be converted to a list using the list() function.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following creates a list in Python?",
+      "options": ["my_list = (1, 2, 3)", "my_list = [1, 2, 3]", "my_list = {1, 2, 3}", "my_list = <1, 2, 3>"],
+      "answer": "my_list = [1, 2, 3]",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "How do you access the second element of a tuple named my_tuple?",
+      "options": ["my_tuple[2]", "my_tuple[1]", "my_tuple(1)", "my_tuple{1}"],
+      "answer": "my_tuple[1]",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which method adds an element to the end of a list?",
+      "options": ["insert()", "append()", "extend()", "sort()"],
+      "answer": "append()",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the result of converting a tuple (1, 2, 3) to a list?",
+      "options": ["[1, 2, 3]", "(1, 2, 3)", "{1, 2, 3}", "<1, 2, 3>"],
+      "answer": "[1, 2, 3]",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following deletes a tuple named my_tuple?",
+      "options": ["remove my_tuple", "delete my_tuple", "del my_tuple", "drop my_tuple"],
+      "answer": "del my_tuple",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The extend method is used to:",
+      "options": ["Add a single element to a list", "Add multiple elements from another list", "Sort a list", "Delete a list"],
+      "answer": "Add multiple elements from another list",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which method arranges a list in ascending order?",
+      "options": ["append()", "sort()", "insert()", "extend()"],
+      "answer": "sort()",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the index of the first element in a list?",
+      "options": ["0", "1", "-1", "2"],
+      "answer": "0",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following creates a tuple?",
+      "options": ["my_tuple = [1, 2, 3]", "my_tuple = {1, 2, 3}", "my_tuple = (1, 2, 3)", "my_tuple = <1, 2, 3>"],
+      "answer": "my_tuple = (1, 2, 3)",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "To insert an element at index 2 in a list, we use:",
+      "options": ["append(2, element)", "insert(2, element)", "extend(2, element)", "sort(2, element)"],
+      "answer": "insert(2, element)",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2, 3]\nmy_list.append(4)\nprint(my_list)",
+      "answer": "[1, 2, 3, 4]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_tuple = (10, 20, 30)\nprint(my_tuple[1])",
+      "answer": "20",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [5, 2, 8]\nmy_list.sort()\nprint(my_list)",
+      "answer": "[2, 5, 8]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2]\nmy_list.extend([3, 4])\nprint(my_list)",
+      "answer": "[1, 2, 3, 4]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_tuple = (1, 2, 3)\nmy_list = list(my_tuple)\nprint(my_list)",
+      "answer": "[1, 2, 3]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [10, 20, 30]\nmy_list.insert(1, 15)\nprint(my_list)",
+      "answer": "[10, 15, 20, 30]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_tuple = (5, 10, 15)\nprint(len(my_tuple))",
+      "answer": "3",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2, 3, 4]\ndel my_list[2]\nprint(my_list)",
+      "answer": "[1, 2, 4]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2, 3]\nmy_tuple = tuple(my_list)\nprint(my_tuple)",
+      "answer": "(1, 2, 3)",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [3, 1, 4, 1]\nprint(my_list.index(1))",
+      "answer": "1",
+      "marks": 1
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a list of 5 gear types used in robots, append a new gear type, and sort the list in alphabetical order.",
+      "answer": "gear_types = [\"Spur\", \"Helical\", \"Bevel\", \"Worm\", \"Planetary\"]\ngear_types.append(\"Rack\")\ngear_types.sort()\nprint(\"Sorted gear types:\", gear_types)",
+      "marks": 2.5
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a tuple of 4 actuator types used in robots, convert it to a list, and insert a new actuator type at index 2.",
+      "answer": "actuator_types = (\"Servo\", \"DC Motor\", \"Pneumatic\", \"Hydraulic\")\nactuator_list = list(actuator_types)\nactuator_list.insert(2, \"Stepper\")\nprint(\"Updated actuator list:\", actuator_list)",
+      "marks": 2.5
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a list of 5 robotic systems, classify each as \"Automated\" or \"Autonomous\", and print the classification.",
+      "answer": "systems = [\"Conveyor Belt\", \"Self-Driving Car\", \"Washing Machine\", \"Robotic Vacuum\", \"Assembly Line\"]\nclassification = [\"Automated\", \"Autonomous\", \"Automated\", \"Autonomous\", \"Automated\"]\nfor i in range(len(systems)):\n    print(f\"{systems[i]} is {classification[i]}\")",
+      "marks": 2.5
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a tuple of 3 gear ratios, convert it to a list, add a new gear ratio, and convert it back to a tuple.",
+      "answer": "gear_ratios = (2, 3, 5)\nratio_list = list(gear_ratios)\nratio_list.append(4)\ngear_ratios = tuple(ratio_list)\nprint(\"Updated gear ratios:\", gear_ratios)",
+      "marks": 2.5
+    }
+  ]
+}
