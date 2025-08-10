@@ -1,0 +1,197 @@
+{
+    "student_name": "Yash",
+    "timestamp": "2025-08-03 11:37:36",
+    "chapter": "Chapter 3,5,10,11,20",
+    "responses": [
+        {
+            "question": "Gears are used in robots to transmit and ________ force..",
+            "type": "fill",
+            "answer_given": "amplify"
+        },
+        {
+            "question": "The gear ratio is calculated as the number of teeth on the driven gear divided by the number of teeth on the ________ gear.",
+            "type": "fill",
+            "answer_given": "driving "
+        },
+        {
+            "question": "Gears can only increase the speed of a robot\u2019s motion.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "The gear ratio determines how many times the driven gear rotates for one rotation of the driving gear.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "What is the primary function of gears in robots?",
+            "type": "mcq",
+            "answer_given": "Transmit and amplify force"
+        },
+        {
+            "question": "Which gear type is best for high-torque, low-speed applications?",
+            "type": "mcq",
+            "answer_given": "Helical gear"
+        },
+        {
+            "question": "Actuators convert ________ energy into mechanical motion.",
+            "type": "fill",
+            "answer_given": "electrical"
+        },
+        {
+            "question": "A ________ actuator produces motion in a straight line.",
+            "type": "fill",
+            "answer_given": "pneumatic"
+        },
+        {
+            "question": "Actuators are only used to produce linear motion.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Servo motors are commonly used in robotic joints for precise control.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "What is the primary function of an actuator in a robot?",
+            "type": "mcq",
+            "answer_given": "Convert energy into motion"
+        },
+        {
+            "question": "Which actuator is best suited for precise angular control?",
+            "type": "mcq",
+            "answer_given": "Hydraulic actuator"
+        },
+        {
+            "question": "Automated systems follow ________ instructions without deviation.",
+            "type": "fill",
+            "answer_given": "a set of"
+        },
+        {
+            "question": "Autonomous systems use ________ decision-making to adapt to changes.",
+            "type": "fill",
+            "answer_given": "independent"
+        },
+        {
+            "question": "Automated systems can adapt to unexpected changes.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Autonomous systems use probabilistic decision-making.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "What is a key feature of automated systems?",
+            "type": "mcq",
+            "answer_given": "Deterministic behavior"
+        },
+        {
+            "question": "Autonomous systems are best suited for:",
+            "type": "mcq",
+            "answer_given": "Dynamic environments"
+        },
+        {
+            "question": "A ________ is a mutable, ordered collection of elements in Python.",
+            "type": "fill",
+            "answer_given": "list"
+        },
+        {
+            "question": "A tuple is ________, meaning its elements cannot be changed after creation.",
+            "type": "fill",
+            "answer_given": "imutable"
+        },
+        {
+            "question": "Lists in Python are immutable.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Tuples can be modified after creation.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Which of the following creates a list in Python?",
+            "type": "mcq",
+            "answer_given": "my_list = [1, 2, 3]"
+        },
+        {
+            "question": "How do you access the second element of a tuple named my_tuple?",
+            "type": "mcq",
+            "answer_given": "my_tuple[1]"
+        },
+        {
+            "question": "my_list = [1, 2, 3]\nmy_list.append(4)\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "1 , 2 , 3 , 4"
+        },
+        {
+            "question": "my_tuple = (10, 20, 30)\nprint(my_tuple[1])",
+            "type": "python_output",
+            "answer_given": "20"
+        },
+        {
+            "question": "my_list = [5, 2, 8]\nmy_list.sort()\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "2 , 5 , 8"
+        },
+        {
+            "question": "my_list = [1, 2]\nmy_list.extend([3, 4])\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "1 , 2 , 3 , 4"
+        },
+        {
+            "question": "my_tuple = (1, 2, 3)\nmy_list = list(my_tuple)\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "1 , 2 , 3"
+        },
+        {
+            "question": "my_list = [10, 20, 30]\nmy_list.insert(1, 15)\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "10 , 20 , 30 , 15"
+        },
+        {
+            "question": "my_tuple = (5, 10, 15)\nprint(len(my_tuple))",
+            "type": "python_output",
+            "answer_given": "3"
+        },
+        {
+            "question": "my_list = [1, 2, 3, 4]\ndel my_list[2]\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "1 , 2 , 4"
+        },
+        {
+            "question": "my_list = [1, 2, 3]\nmy_tuple = tuple(my_list)\nprint(my_tuple)",
+            "type": "python_output",
+            "answer_given": "1 , 2 , 3"
+        },
+        {
+            "question": "my_list = [3, 1, 4, 1]\nprint(my_list.index(1))",
+            "type": "python_output",
+            "answer_given": "1 "
+        },
+        {
+            "question": "Write a Python program to create a list of 5 gear types used in robots, append a new gear type, and sort the list in alphabetical order.",
+            "type": "python_programming",
+            "answer_given": "OK"
+        },
+        {
+            "question": "Write a Python program to create a tuple of 4 actuator types used in robots, convert it to a list, and insert a new actuator type at index 2.",
+            "type": "python_programming",
+            "answer_given": "OK"
+        },
+        {
+            "question": "Write a Python program to create a list of 5 robotic systems, classify each as \"Automated\" or \"Autonomous\", and print the classification.",
+            "type": "python_programming",
+            "answer_given": "OK"
+        },
+        {
+            "question": "Write a Python program to create a tuple of 3 gear ratios, convert it to a list, add a new gear ratio, and convert it back to a tuple.",
+            "type": "python_programming",
+            "answer_given": "OK"
+        }
+    ]
+}
