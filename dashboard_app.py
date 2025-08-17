@@ -10,20 +10,20 @@ st.title("ICSC Robotics and AI Exam Dashboard")
 
 # Read questions from questions.json
 try:
-    with open('questions.json', 'r') as q_file:
+    with open('10-Aug-Robotics_AI_Questions.json', 'r') as q_file:
         questions_data = json.load(q_file)
-        questions = questions_data["Chapter 1, 2, 12"]
+        questions = questions_data["1, 2, 3, 4, 5, 10, 11, 12, 20"]
 except FileNotFoundError:
     st.error("Error: questions.json file not found!")
     st.stop()
 
 # Read student responses from Yash_20250713_072223_responses.json
 try:
-    with open('Yash_20250713_072223_responses.json', 'r') as r_file:
+    with open('10-Aug Yash_Answer.json', 'r') as r_file:
         responses_data = json.load(r_file)
         responses = responses_data["responses"]
 except FileNotFoundError:
-    st.error("Error: Yash_20250713_072223_responses.json file not found!")
+    st.error("Error: 10-Aug Yash_Answer.json file not found!")
     st.stop()
 
 # Initialize lists for the dashboard

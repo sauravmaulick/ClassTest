@@ -1,0 +1,377 @@
+{
+    "student_name": "Yash",
+    "timestamp": "2025-08-10 10:59:51",
+    "chapter": "1, 2, 3, 4, 5, 10, 11, 12, 20",
+    "responses": [
+        {
+            "question": "________ robots are used to automate tasks like picking and packing in storage facilities.",
+            "type": "fill",
+            "answer_given": "Automated mobile robots"
+        },
+        {
+            "question": "Smart ________ systems integrate robotics to control lighting, heating, and security.",
+            "type": "fill",
+            "answer_given": "Smart home systems"
+        },
+        {
+            "question": "________ Cars use sensors and AI to navigate without human input.",
+            "type": "fill",
+            "answer_given": "driverless"
+        },
+        {
+            "question": "Robotics in healthcare includes ________ robots for precision surgery.",
+            "type": "fill",
+            "answer_given": "Surgical"
+        },
+        {
+            "question": "New Age Robotic Systems are relevant due to their ability to improve ________ and efficiency.",
+            "type": "fill",
+            "answer_given": "productivity"
+        },
+        {
+            "question": "Autonomous Drones require constant human control to operate.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Smart Schools use robotics for automated teaching and administrative tasks.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "A smart elevator is not considered a robotic system.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Assistant Robots can perform tasks like cleaning or guiding in public spaces.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "New Age Robotic Systems are irrelevant in modern industries.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Which of the following is an example of a New Age Robotic System used in healthcare?",
+            "type": "mcq",
+            "answer_given": "Surgical Robot"
+        },
+        {
+            "question": "What is a key feature of Smart Mobility systems?",
+            "type": "mcq",
+            "answer_given": "AI-based navigation"
+        },
+        {
+            "question": "Which robotic system is used for automated inventory management?",
+            "type": "mcq",
+            "answer_given": "Warehouse Robot"
+        },
+        {
+            "question": "Why are New Age Robotic Systems relevant?",
+            "type": "mcq",
+            "answer_given": "They reduce human effort"
+        },
+        {
+            "question": "An example of a New Age Robotic System in public spaces is:",
+            "type": "mcq",
+            "answer_given": "Assistant Robot"
+        },
+        {
+            "question": "A robot differs from a machine because it can ________ its environment.",
+            "type": "fill",
+            "answer_given": "adapt to"
+        },
+        {
+            "question": "Cobots are designed to work ________ humans in a collaborative manner.",
+            "type": "fill",
+            "answer_given": "with"
+        },
+        {
+            "question": "Unlike robots, machines do not have the ability to ________ their actions dynamically.",
+            "type": "fill",
+            "answer_given": "change"
+        },
+        {
+            "question": "Cobots emphasize ________ interaction in robotic systems.",
+            "type": "fill",
+            "answer_given": "human"
+        },
+        {
+            "question": "The progress from robots to cobots focuses on enhancing ________ collaboration.",
+            "type": "fill",
+            "answer_given": "human"
+        },
+        {
+            "question": "A machine can sense its environment like a robot.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Cobots are designed to work independently without human interaction.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Robots must maintain a certain speed to perform programmed tasks.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Cobots are less safe than traditional robots.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "The transition from robots to cobots improves workplace collaboration.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "What distinguishes a robot from a machine?",
+            "type": "mcq",
+            "answer_given": "Sensing capability"
+        },
+        {
+            "question": "What is a key feature of a cobot?",
+            "type": "mcq",
+            "answer_given": "Human-robot collaboration"
+        },
+        {
+            "question": "Why are cobots important in modern industries?",
+            "type": "mcq",
+            "answer_given": "They enhance human-robot collaboration"
+        },
+        {
+            "question": "A robot can be identified by its ability to:",
+            "type": "mcq",
+            "answer_given": "Sense and adapt to its environment"
+        },
+        {
+            "question": "The progress from robots to cobots emphasizes:",
+            "type": "mcq",
+            "answer_given": "Human interaction"
+        },
+        {
+            "question": "Gears in robots are used for ________ and amplification of force.",
+            "type": "fill",
+            "answer_given": "increasing or decreasing speed"
+        },
+        {
+            "question": "A ________ sensor detects physical contact in robotics.",
+            "type": "fill",
+            "answer_given": "tactile"
+        },
+        {
+            "question": "________ actuators produce motion in a straight line.",
+            "type": "fill",
+            "answer_given": "linear"
+        },
+        {
+            "question": "The gear ratio is the ratio of teeth on the ________ gear to the driving gear.",
+            "type": "fill",
+            "answer_given": "driven"
+        },
+        {
+            "question": "A ________ sensor is used for navigation in robots.",
+            "type": "fill",
+            "answer_given": "image"
+        },
+        {
+            "question": "Bevel gears are used for parallel shaft arrangements.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Vision sensors are used for object detection in robotics.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Linear actuators are used in robot wheels.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Internal sensors measure a robot\u2019s position and velocity.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Actuators convert mechanical energy into electrical energy.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Which gear type is used for high-torque, low-speed applications?",
+            "type": "mcq",
+            "answer_given": "Worm gear"
+        },
+        {
+            "question": "Which sensor is used for detecting physical contact?",
+            "type": "mcq",
+            "answer_given": "Tactile sensor"
+        },
+        {
+            "question": "Which actuator is best suited for robot wheels?",
+            "type": "mcq",
+            "answer_given": "Servo motor"
+        },
+        {
+            "question": "What is the function of a proximity sensor in robotics?",
+            "type": "mcq",
+            "answer_given": "Detect nearby objects"
+        },
+        {
+            "question": "Internal sensors in robots measure:",
+            "type": "mcq",
+            "answer_given": "Position and velocity"
+        },
+        {
+            "question": "Automated systems follow ________ instructions without deviation.",
+            "type": "fill",
+            "answer_given": "predefined"
+        },
+        {
+            "question": "Autonomous systems use ________ decision-making to adapt to changes.",
+            "type": "fill",
+            "answer_given": "independent"
+        },
+        {
+            "question": "Human decision-making is considered ________, while machine decision-making is objective.",
+            "type": "fill",
+            "answer_given": "subjective"
+        },
+        {
+            "question": "Machine Learning relies heavily on ________ and algorithms.",
+            "type": "fill",
+            "answer_given": "data"
+        },
+        {
+            "question": "Fruit sorting is an example of a ________ Learning application.",
+            "type": "fill",
+            "answer_given": "machine"
+        },
+        {
+            "question": "Automated systems can adapt to dynamic environments.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Machine Learning involves teaching computers to make subjective decisions.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Autonomous systems use probabilistic decision-making.",
+            "type": "true_false",
+            "answer_given": "False"
+        },
+        {
+            "question": "Human object classification is based on algorithms.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "Machine Learning requires programming and data to function.",
+            "type": "true_false",
+            "answer_given": "True"
+        },
+        {
+            "question": "What is a key feature of autonomous systems?",
+            "type": "mcq",
+            "answer_given": "Probabilistic decision-making"
+        },
+        {
+            "question": "Human decision-making is characterized as:",
+            "type": "mcq",
+            "answer_given": "Objective"
+        },
+        {
+            "question": "What is the role of data in Machine Learning?",
+            "type": "mcq",
+            "answer_given": "To train algorithms"
+        },
+        {
+            "question": "An example of a Machine Learning application is:",
+            "type": "mcq",
+            "answer_given": "Fruit sorting"
+        },
+        {
+            "question": "Automated systems are best suited for:",
+            "type": "mcq",
+            "answer_given": "Fixed, repetitive tasks"
+        },
+        {
+            "question": "my_list = [1, 2, 3]\nmy_list.append(4)\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "1,2,3,4"
+        },
+        {
+            "question": "my_tuple = (10, 20, 30)\nprint(my_tuple[1])",
+            "type": "python_output",
+            "answer_given": "20"
+        },
+        {
+            "question": "my_list = [5, 2, 8]\nmy_list.sort()\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "2,5,8"
+        },
+        {
+            "question": "my_list = [1, 2]\nmy_list.extend([3, 4])\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "1,2,3,4"
+        },
+        {
+            "question": "my_tuple = (1, 2, 3)\nmy_list = list(my_tuple)\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "[1,2,3]"
+        },
+        {
+            "question": "my_list = [10, 20, 30]\nmy_list.insert(1, 15)\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "[10,15,20,30]"
+        },
+        {
+            "question": "my_tuple = (5, 10, 15)\nprint(len(my_tuple))",
+            "type": "python_output",
+            "answer_given": "3"
+        },
+        {
+            "question": "my_list = [1, 2, 3, 4]\ndel my_list[2]\nprint(my_list)",
+            "type": "python_output",
+            "answer_given": "[1,2,4]"
+        },
+        {
+            "question": "my_list = [1, 2, 3]\nmy_tuple = tuple(my_list)\nprint(my_tuple)",
+            "type": "python_output",
+            "answer_given": "(1,2,3)"
+        },
+        {
+            "question": "my_list = [3, 1, 4, 1]\nprint(my_list.index(1))",
+            "type": "python_output",
+            "answer_given": "1"
+        },
+        {
+            "question": "Write a Python program to create a list of 5 gear types used in robots, append a new gear type, and sort the list in alphabetical order.",
+            "type": "python_programming",
+            "answer_given": "OK"
+        },
+        {
+            "question": "Write a Python program to create a tuple of 4 actuator types used in robots, convert it to a list, and insert a new actuator type at index 2.",
+            "type": "python_programming",
+            "answer_given": "OK"
+        },
+        {
+            "question": "Write a Python program to create a list of 5 robotic systems, classify each as \"Automated\" or \"Autonomous\", and print the classification.",
+            "type": "python_programming",
+            "answer_given": "OK"
+        },
+        {
+            "question": "Write a Python program to create a tuple of 3 gear ratios, convert it to a list, add a new gear ratio, and convert it back to a tuple.",
+            "type": "python_programming",
+            "answer_given": "OK"
+        }
+    ]
+}

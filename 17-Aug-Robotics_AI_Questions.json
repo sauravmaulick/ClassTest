@@ -1,0 +1,323 @@
+{
+  "Exam": [
+    {
+      "type": "fill",
+      "question": "________ Robots are used to automate inventory management in storage facilities.",
+      "options": ["Assistant", "Warehouse", "Surgical", "Autonomous"],
+      "answer": "Warehouse",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Smart ________ integrate robotics for automated home management.",
+      "options": ["Homes", "Schools", "Cars", "Drones"],
+      "answer": "Homes",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A robot must continuously ________ its environment to perform tasks.",
+      "options": ["ignore", "sense", "avoid", "reset"],
+      "answer": "sense",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Cobots are designed for ________ interaction with humans.",
+      "options": ["no", "human", "machine", "automatic"],
+      "answer": "human",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Gears are used for ________ of force in robots.",
+      "options": ["reduction", "transmission", "elimination", "storage"],
+      "answer": "transmission",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "________ sensors detect physical contact in robotics.",
+      "options": ["Vision", "Tactile", "Temperature", "Proximity"],
+      "answer": "Tactile",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Linear actuators produce ________ motion.",
+      "options": ["rotary", "straight-line", "random", "circular"],
+      "answer": "straight-line",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Automated systems are ________ in nature.",
+      "options": ["probabilistic", "deterministic", "subjective", "random"],
+      "answer": "deterministic",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "Machine Learning uses ________ to learn.",
+      "options": ["data", "emotions", "manual input", "guesses"],
+      "answer": "data",
+      "marks": 1
+    },
+    {
+      "type": "fill",
+      "question": "A ________ is a mutable, ordered collection of elements in Python.",
+      "options": ["tuple", "list", "set", "dictionary"],
+      "answer": "list",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Autonomous Drones require constant human control to operate.",
+      "answer": "False",
+      "explanation": "Autonomous Drones operate independently using sensors and AI for navigation.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Cobots are designed to work independently without human interaction.",
+      "answer": "False",
+      "explanation": "Cobots are designed for human-robot collaboration.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Worm gears are used for low torque applications.",
+      "answer": "False",
+      "explanation": "Worm gears are used for high torque, low-speed applications.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Vision sensors are internal sensors in robots.",
+      "answer": "False",
+      "explanation": "Vision sensors are external, used for object detection.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Automated systems can handle dynamic environments.",
+      "answer": "False",
+      "explanation": "Automated systems are deterministic and suited for static environments.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Lists in Python are immutable.",
+      "answer": "False",
+      "explanation": "Lists are mutable, allowing element changes.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Smart Homes use robotics for automation tasks.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Rotary actuators are used in robot joints.",
+      "answer": "False",
+      "explanation": "Rotary actuators are used in wheels, linear actuators in joints.",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Machine Learning involves algorithms and data.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "A tuple can be converted to a list using the list() function.",
+      "answer": "True",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which is an example of a New Age Robotic System in healthcare?",
+      "options": ["Warehouse Robot", "Surgical Robot", "Smart Elevator", "Autonomous Drone"],
+      "answer": "Surgical Robot",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What distinguishes a robot from a machine?",
+      "options": ["Fixed operation", "Sensing capability", "No programming", "Manual control"],
+      "answer": "Sensing capability",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which gear type is best for high-torque, low-speed applications?",
+      "options": ["Spur gear", "Helical gear", "Worm gear", "Bevel gear"],
+      "answer": "Worm gear",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which sensor detects physical contact?",
+      "options": ["Vision", "Tactile", "Temperature", "Proximity"],
+      "answer": "Tactile",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which actuator is used for robot wheels?",
+      "options": ["Linear actuator", "Servo motor", "Pneumatic actuator", "Hydraulic actuator"],
+      "answer": "Servo motor",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Automated systems are characterized as:",
+      "options": ["Probabilistic", "Deterministic", "Subjective", "Random"],
+      "answer": "Deterministic",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Machine Learning relies on:",
+      "options": ["Data and algorithms", "Manual input only", "No programming", "Emotions"],
+      "answer": "Data and algorithms",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which method adds an element to the end of a list?",
+      "options": ["insert()", "append()", "extend()", "sort()"],
+      "answer": "append()",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "What is the result of converting a tuple (1, 2, 3) to a list?",
+      "options": ["[1, 2, 3]", "(1, 2, 3)", "{1, 2, 3}", "<1, 2, 3>"],
+      "answer": "[1, 2, 3]",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which technology is primarily used in Autonomous Cars for navigation?",
+      "options": ["GPS", "Bluetooth", "Infrared", "Radio Waves"],
+      "answer": "GPS",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2, 3]\nmy_list.append(4)\nprint(my_list)",
+      "answer": "[1, 2, 3, 4]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_tuple = (5, 6, 7)\nprint(my_tuple[1])",
+      "answer": "6",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [8, 3, 5]\nmy_list.sort()\nprint(my_list)",
+      "answer": "[3, 5, 8]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2]\nmy_list.extend([3, 4])\nprint(my_list)",
+      "answer": "[1, 2, 3, 4]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_tuple = (1, 2, 3)\nmy_list = list(my_tuple)\nprint(my_list)",
+      "answer": "[1, 2, 3]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [10, 20]\nmy_list.insert(1, 15)\nprint(my_list)",
+      "answer": "[10, 15, 20]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2, 3]\nmy_tuple = tuple(my_list)\nprint(my_tuple)",
+      "answer": "(1, 2, 3)",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [1, 2, 3, 4]\ndel my_list[0]\nprint(my_list)",
+      "answer": "[2, 3, 4]",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_list = [4, 5, 6]\nprint(my_list.index(5))",
+      "answer": "1",
+      "marks": 1
+    },
+    {
+      "type": "python_output",
+      "question": "my_tuple = (1, 2, 3, 4)\nprint(len(my_tuple))",
+      "answer": "4",
+      "marks": 1
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a list of 5 sensor types, append a new one, sort it, and print using a loop if the list has more than 5 elements.",
+      "answer": "sensors = ['Vision', 'Tactile', 'Temperature', 'Proximity', 'Motion']\nsensors.append('Navigation')\nsensors.sort()\nif len(sensors) > 5:\n    for sensor in sensors:\n        print(sensor)",
+      "marks": 2.5
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a tuple of gear types, convert to list, insert one at position 2, and print 'Many gears' if length > 5.",
+      "answer": "gears = ('Spur', 'Helical', 'Bevel', 'Worm')\ngear_list = list(gears)\ngear_list.insert(2, 'Planetary')\nif len(gear_list) > 5:\n    print('Many gears')\nelse:\n    print(gear_list)",
+      "marks": 2.5
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a list of robotic systems, use a loop to classify as 'Autonomous' or 'Automated' using if-else, and print.",
+      "answer": "systems = ['Conveyor Belt', 'Self-Driving Car', 'Elevator', 'Surgical Robot']\nfor system in systems:\n    if system in ['Self-Driving Car', 'Surgical Robot']:\n        print(system + ' is Autonomous')\n    else:\n        print(system + ' is Automated')",
+      "marks": 2.5
+    },
+    {
+      "type": "python_programming",
+      "question": "Write a Python program to create a tuple of numbers, convert to list, sum even numbers using a loop and if, and convert back to tuple.",
+      "answer": "nums = (1, 2, 3, 4, 5)\nnum_list = list(nums)\nsum_even = 0\nfor num in num_list:\n    if num % 2 == 0:\n        sum_even += num\nprint(sum_even)\nnums = tuple(num_list)",
+      "marks": 2.5
+    },
+    {
+        "type": "python_programming",
+        "question": "Write a Python program to create a list of robot components, append a new component, and use a loop with if-else to check if each component is a sensor or actuator, then print the classification.",
+        "answer": "components = ['Vision Sensor', 'Servo Motor', 'Tactile Sensor', 'DC Motor']\ncomponents.append('Proximity Sensor')\nfor comp in components:\n    if 'Sensor' in comp:\n        print(f'{comp} is a Sensor')\n    else:\n        print(f'{comp} is an Actuator')",
+        "marks": 2.5,
+        "description": "This program creates a list of robot components, appends a new sensor, and uses a loop with if-else to classify each as a sensor or actuator, demonstrating list operations and conditional logic."
+      },
+      {
+        "type": "python_programming",
+        "question": "Write a Python program to create a tuple of gear ratios, convert it to a list, use a loop with if to find ratios greater than 3, and convert back to a tuple.",
+        "answer": "gear_ratios = (2, 4, 3, 5)\nratio_list = list(gear_ratios)\nhigh_ratios = []\nfor ratio in ratio_list:\n    if ratio > 3:\n        high_ratios.append(ratio)\ngear_ratios = tuple(high_ratios)\nprint('Gear ratios > 3:', gear_ratios)",
+        "marks": 2.5,
+        "description": "This program demonstrates tuple-to-list conversion, looping with conditional statements to filter gear ratios, and conversion back to a tuple, relevant to gear systems in robotics."
+      },
+      {
+        "type": "python_programming",
+        "question": "Write a Python program to create a list of robotic systems, use a loop with if-else to count automated vs. autonomous systems, and print the counts.",
+        "answer": "systems = ['Conveyor Belt', 'Self-Driving Car', 'Smart Elevator', 'Robotic Vacuum']\nautomated = 0\nautonomous = 0\nfor system in systems:\n    if system in ['Self-Driving Car', 'Robotic Vacuum']:\n        autonomous += 1\n    else:\n        automated += 1\nprint(f'Automated: {automated}, Autonomous: {autonomous}')",
+        "marks": 2.5,
+        "description": "This program uses a list, loop, and if-else to count automated and autonomous systems, linking to the AI topic of automated vs. autonomous decision-making."
+      },
+      {
+        "type": "python_programming",
+        "question": "Write a Python program to create a list of sensor readings, sort them, and use a loop with if to identify readings above a threshold (e.g., 50) for a robot's proximity sensor.",
+        "answer": "readings = [45, 60, 30, 75, 20]\nreadings.sort()\nthreshold = 50\nfor reading in readings:\n    if reading > threshold:\n        print(f'Proximity alert: {reading} is above {threshold}')\n    else:\n        print(f'Safe: {reading}')",
+        "marks": 2.5,
+        "description": "This program sorts a list of sensor readings and uses a loop with if-else to flag high proximity readings, connecting to sensor applications in robotics."
+      }
+  ]
+}

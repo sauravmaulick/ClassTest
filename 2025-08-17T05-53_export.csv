@@ -1,0 +1,105 @@
+﻿,Question,Type,Correct Answer,Given Answer,Status
+0,________ robots are used to automate tasks like picking and packing in storage facilities.,fill,Warehouse,Automated mobile robots,Incorrect
+1,"Smart ________ systems integrate robotics to control lighting, heating, and security.",fill,Home,Smart home systems,Incorrect
+2,________ Cars use sensors and AI to navigate without human input.,fill,Autonomous,driverless,Incorrect
+3,Robotics in healthcare includes ________ robots for precision surgery.,fill,Surgical,Surgical,Correct
+4,New Age Robotic Systems are relevant due to their ability to improve ________ and efficiency.,fill,productivity,productivity,Correct
+5,Autonomous Drones require constant human control to operate.,true_false,False,False,Correct
+6,Smart Schools use robotics for automated teaching and administrative tasks.,true_false,True,True,Correct
+7,A smart elevator is not considered a robotic system.,true_false,False,False,Correct
+8,Assistant Robots can perform tasks like cleaning or guiding in public spaces.,true_false,True,False,Incorrect
+9,New Age Robotic Systems are irrelevant in modern industries.,true_false,False,False,Correct
+10,Which of the following is an example of a New Age Robotic System used in healthcare?,mcq,Surgical Robot,Surgical Robot,Correct
+11,What is a key feature of Smart Mobility systems?,mcq,AI-based navigation,AI-based navigation,Correct
+12,Which robotic system is used for automated inventory management?,mcq,Warehouse Robot,Warehouse Robot,Correct
+13,Why are New Age Robotic Systems relevant?,mcq,They reduce human effort,They reduce human effort,Correct
+14,An example of a New Age Robotic System in public spaces is:,mcq,Assistant Robot,Assistant Robot,Correct
+15,A robot differs from a machine because it can ________ its environment.,fill,sense,adapt to,Incorrect
+16,Cobots are designed to work ________ humans in a collaborative manner.,fill,alongside,with,Incorrect
+17,"Unlike robots, machines do not have the ability to ________ their actions dynamically.",fill,adjust,change,Incorrect
+18,Cobots emphasize ________ interaction in robotic systems.,fill,human,human,Correct
+19,The progress from robots to cobots focuses on enhancing ________ collaboration.,fill,human-robot,human,Incorrect
+20,A machine can sense its environment like a robot.,true_false,False,False,Correct
+21,Cobots are designed to work independently without human interaction.,true_false,False,False,Correct
+22,Robots must maintain a certain speed to perform programmed tasks.,true_false,True,False,Incorrect
+23,Cobots are less safe than traditional robots.,true_false,False,False,Correct
+24,The transition from robots to cobots improves workplace collaboration.,true_false,True,True,Correct
+25,What distinguishes a robot from a machine?,mcq,Sensing capability,Sensing capability,Correct
+26,What is a key feature of a cobot?,mcq,Human-robot collaboration,Human-robot collaboration,Correct
+27,Why are cobots important in modern industries?,mcq,They enhance human-robot collaboration,They enhance human-robot collaboration,Correct
+28,A robot can be identified by its ability to:,mcq,Sense and adapt to its environment,Sense and adapt to its environment,Correct
+29,The progress from robots to cobots emphasizes:,mcq,Human interaction,Human interaction,Correct
+30,Gears in robots are used for ________ and amplification of force.,fill,transmission,increasing or decreasing speed,Incorrect
+31,A ________ sensor detects physical contact in robotics.,fill,tactile,tactile,Correct
+32,________ actuators produce motion in a straight line.,fill,Linear,linear,Incorrect
+33,The gear ratio is the ratio of teeth on the ________ gear to the driving gear.,fill,driven,driven,Correct
+34,A ________ sensor is used for navigation in robots.,fill,proximity,image,Incorrect
+35,Bevel gears are used for parallel shaft arrangements.,true_false,False,False,Correct
+36,Vision sensors are used for object detection in robotics.,true_false,True,True,Correct
+37,Linear actuators are used in robot wheels.,true_false,False,False,Correct
+38,Internal sensors measure a robotâ€™s position and velocity.,true_false,True,True,Correct
+39,Actuators convert mechanical energy into electrical energy.,true_false,False,True,Incorrect
+40,"Which gear type is used for high-torque, low-speed applications?",mcq,Worm gear,Worm gear,Correct
+41,Which sensor is used for detecting physical contact?,mcq,Tactile sensor,Tactile sensor,Correct
+42,Which actuator is best suited for robot wheels?,mcq,Servo motor,Servo motor,Correct
+43,What is the function of a proximity sensor in robotics?,mcq,Detect nearby objects,Detect nearby objects,Correct
+44,Internal sensors in robots measure:,mcq,Position and velocity,Position and velocity,Correct
+45,Automated systems follow ________ instructions without deviation.,fill,pre-programmed,predefined,Incorrect
+46,Autonomous systems use ________ decision-making to adapt to changes.,fill,probabilistic,independent,Incorrect
+47,"Human decision-making is considered ________, while machine decision-making is objective.",fill,subjective,subjective,Correct
+48,Machine Learning relies heavily on ________ and algorithms.,fill,data,data,Correct
+49,Fruit sorting is an example of a ________ Learning application.,fill,Machine,machine,Incorrect
+50,Automated systems can adapt to dynamic environments.,true_false,False,False,Correct
+51,Machine Learning involves teaching computers to make subjective decisions.,true_false,False,True,Incorrect
+52,Autonomous systems use probabilistic decision-making.,true_false,True,False,Incorrect
+53,Human object classification is based on algorithms.,true_false,False,True,Incorrect
+54,Machine Learning requires programming and data to function.,true_false,True,True,Correct
+55,What is a key feature of autonomous systems?,mcq,Probabilistic decision-making,Probabilistic decision-making,Correct
+56,Human decision-making is characterized as:,mcq,Subjective,Objective,Incorrect
+57,What is the role of data in Machine Learning?,mcq,To train algorithms,To train algorithms,Correct
+58,An example of a Machine Learning application is:,mcq,Fruit sorting,Fruit sorting,Correct
+59,Automated systems are best suited for:,mcq,"Fixed, repetitive tasks","Fixed, repetitive tasks",Correct
+60,"my_list = [1, 2, 3]
+my_list.append(4)
+print(my_list)",python_output,"[1, 2, 3, 4]","1,2,3,4",Incorrect
+61,"my_tuple = (10, 20, 30)
+print(my_tuple[1])",python_output,20,20,Correct
+62,"my_list = [5, 2, 8]
+my_list.sort()
+print(my_list)",python_output,"[2, 5, 8]","2,5,8",Incorrect
+63,"my_list = [1, 2]
+my_list.extend([3, 4])
+print(my_list)",python_output,"[1, 2, 3, 4]","1,2,3,4",Incorrect
+64,"my_tuple = (1, 2, 3)
+my_list = list(my_tuple)
+print(my_list)",python_output,"[1, 2, 3]","[1,2,3]",Incorrect
+65,"my_list = [10, 20, 30]
+my_list.insert(1, 15)
+print(my_list)",python_output,"[10, 15, 20, 30]","[10,15,20,30]",Incorrect
+66,"my_tuple = (5, 10, 15)
+print(len(my_tuple))",python_output,3,3,Correct
+67,"my_list = [1, 2, 3, 4]
+del my_list[2]
+print(my_list)",python_output,"[1, 2, 4]","[1,2,4]",Incorrect
+68,"my_list = [1, 2, 3]
+my_tuple = tuple(my_list)
+print(my_tuple)",python_output,"(1, 2, 3)","(1,2,3)",Incorrect
+69,"my_list = [3, 1, 4, 1]
+print(my_list.index(1))",python_output,1,1,Correct
+70,"Write a Python program to create a list of 5 gear types used in robots, append a new gear type, and sort the list in alphabetical order.",python_programming,"gear_types = [""Spur"", ""Helical"", ""Bevel"", ""Worm"", ""Planetary""]
+gear_types.append(""Rack"")
+gear_types.sort()
+print(""Sorted gear types:"", gear_types)",OK,Incorrect
+71,"Write a Python program to create a tuple of 4 actuator types used in robots, convert it to a list, and insert a new actuator type at index 2.",python_programming,"actuator_types = (""Servo"", ""DC Motor"", ""Pneumatic"", ""Hydraulic"")
+actuator_list = list(actuator_types)
+actuator_list.insert(2, ""Stepper"")
+print(""Updated actuator list:"", actuator_list)",OK,Incorrect
+72,"Write a Python program to create a list of 5 robotic systems, classify each as ""Automated"" or ""Autonomous"", and print the classification.",python_programming,"systems = [""Conveyor Belt"", ""Self-Driving Car"", ""Washing Machine"", ""Robotic Vacuum"", ""Assembly Line""]
+classification = [""Automated"", ""Autonomous"", ""Automated"", ""Autonomous"", ""Automated""]
+for i in range(len(systems)):
+    print(f""{systems[i]} is {classification[i]}"")",OK,Incorrect
+73,"Write a Python program to create a tuple of 3 gear ratios, convert it to a list, add a new gear ratio, and convert it back to a tuple.",python_programming,"gear_ratios = (2, 3, 5)
+ratio_list = list(gear_ratios)
+ratio_list.append(4)
+gear_ratios = tuple(ratio_list)
+print(""Updated gear ratios:"", gear_ratios)",OK,Incorrect
